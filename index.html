@@ -19,13 +19,13 @@
 		font-weight:bold;
  }
  
+
+ 
  .col-2{
 	text-align:center;
  }
  
- .btn-group-vertical>.btn:focus{
-	background:#5bb5f5 !important;
- }
+
  
  .typed_text{
 	font-size :2rem ;
@@ -109,6 +109,9 @@
 	
 	$( "button.letter" ).on( "click", function() {
 		$(".typed_text").append($( this ).text());
+		$( "button.letter" ).css("background-color", "#343a40");
+		$( this ).css("background-color", "#7fafe0");
+
 	 
 	});
  
