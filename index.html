@@ -28,7 +28,7 @@
 
  
  .typed_text{
-	font-size :2rem ;
+	font-size :1.9rem ;
 	word-wrap: break-word;
  }
  
@@ -92,6 +92,29 @@
 		
 		</div>
 		
+		<div class="col-2">
+		
+				<div class="btn-group-vertical btn-group-lg">
+					<button type="button" class="btn btn-dark big_btn espace">ESP.</button>
+				</div>
+				<div class="btn-group-vertical btn-group-lg">
+				<button type="button" class="btn btn-dark big_btn espace">0</button>
+				<button type="button" class="btn btn-dark big_btn letter">1</button>
+				<button type="button" class="btn btn-dark big_btn letter">2</button>
+				<button type="button" class="btn btn-dark big_btn letter">3</button>
+				<button type="button" class="btn btn-dark big_btn letter">4</button>
+				<button type="button" class="btn btn-dark big_btn letter">5</button>
+				<button type="button" class="btn btn-dark big_btn letter">6</button>
+				<button type="button" class="btn btn-dark big_btn letter">7</button>
+				<button type="button" class="btn btn-dark big_btn letter">8</button>
+				<button type="button" class="btn btn-dark big_btn letter">9</button>
+				
+				
+				</div>
+			
+		
+		</div>
+		
 		<div class="col-1">
 			
 		</div>
@@ -104,6 +127,11 @@
  <script>
 	$( "button.word" ).on( "click", function() {
 		$(".typed_text").append(" " + $( this ).text() + " ");
+	 
+	});
+	
+	$( "button.word" ).on( "click", function() {
+		$(".typed_text").append(" ");
 	 
 	});
 	
