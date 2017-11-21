@@ -1,190 +1,225 @@
 <!doctype html>
 <html lang="fr">
 <head>
-  <meta charset="utf-8">
-  <title>Title</title>
+    <meta charset="utf-8">
+    <title>Title</title>
 
- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
- 
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+          integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+          integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+            integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+            integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
+            crossorigin="anonymous"></script>
 
 
- <style>
- .big_btn{
-	font-size :2.1rem !important;
-	    margin-bottom: 5px;
-		font-weight:bold;
- }
- 
+    <style>
+        .big_btn {
+            font-size: 2.1rem !important;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
 
- 
- .col-2{
-	text-align:center;
- }
- 
-img {
-    height: 50px !important;
-}
+        .col-2 {
+            text-align: center;
+        }
 
- 
- .typed_text{
-	font-size :1.9rem ;
-	font-weight:bold;
-	word-wrap: break-word;
- }
- 
- .container {
-	margin-left:0;
-	padding-left:0;
- }
- 
- </style>
- 
- 
+        img {
+            height: 50px !important;
+        }
+
+        .typed_text {
+            font-size: 1.9rem;
+            font-weight: bold;
+            word-wrap: break-word;
+        }
+
+        .container {
+            margin-left: 0;
+            padding-left: 0;
+        }
+
+    </style>
+
+
 </head>
 <body>
- 
- <div class="container main_container">
+<nav class="navbar fixed-top navbar-light bg-light">
+    <p class="navbar-brand typed_text"></p>
+</nav>
 
-	<div class="row">
-		<div class="col-2">
-		<div class="btn-group-vertical btn-group-lg">
-					<button type="button" class="btn btn-warning big_btn delete">Eff.</button>
-				</div>
-		
-			<div class="btn-group-vertical btn-group-lg">
-				<button type="button" class="btn btn-success big_btn word">OUI</button>
-			</div>
-			<div class="btn-group-vertical btn-group-lg">
-				<button type="button" class="btn btn-dark big_btn letter">A</button>
-				<button type="button" class="btn btn-dark big_btn letter">B</button>
-				<button type="button" class="btn btn-dark big_btn letter">C</button>
-				<button type="button" class="btn btn-dark big_btn letter">D</button>
-				<button type="button" class="btn btn-dark big_btn letter">E</button>
-				<button type="button" class="btn btn-dark big_btn letter">F</button>
-				<button type="button" class="btn btn-dark big_btn letter">G</button>
-				<button type="button" class="btn btn-dark big_btn letter">H</button>
-				<button type="button" class="btn btn-dark big_btn letter">I</button>
-				<button type="button" class="btn btn-dark big_btn letter">J</button>
-				<button type="button" class="btn btn-dark big_btn letter">K</button>
-				<button type="button" class="btn btn-dark big_btn letter">L</button>
-				<button type="button" class="btn btn-dark big_btn letter">M</button>
-			</div>	
-		</div>
-		<div class="col-2">
-		<div class="btn-group-vertical btn-group-lg">
-					<button type="button" class="btn btn-dark big_btn space">Esp.</button>
-				</div>
-		
-				<div class="btn-group-vertical btn-group-lg">
-			<button type="button" class="btn btn-danger big_btn word">NON</button>
-				</div>
-			<div class="btn-group-vertical btn-group-lg">
-				<button type="button" class="btn btn-dark big_btn letter">N</button>
-				<button type="button" class="btn btn-dark big_btn letter">O</button>
-				<button type="button" class="btn btn-dark big_btn letter">P</button>
-				<button type="button" class="btn btn-dark big_btn letter">Q</button>
-				<button type="button" class="btn btn-dark big_btn letter">R</button>
-				<button type="button" class="btn btn-dark big_btn letter">S</button>
-				<button type="button" class="btn btn-dark big_btn letter">T</button>
-				<button type="button" class="btn btn-dark big_btn letter">U</button>
-				<button type="button" class="btn btn-dark big_btn letter">V</button>
-				<button type="button" class="btn btn-dark big_btn letter">W</button>
-				<button type="button" class="btn btn-dark big_btn letter">X</button>
-				<button type="button" class="btn btn-dark big_btn letter">Y</button>
-				<button type="button" class="btn btn-dark big_btn letter">Z</button>
-				
-				</div>
-			
-		
-		</div>
-		
-		<div class="col-2">
-				<div class="btn-group-vertical btn-group-lg">
-					<button type="button" class="btn btn-dark big_btn letter">0</button>
-					<button type="button" class="btn btn-dark big_btn letter">1</button>
-					<button type="button" class="btn btn-dark big_btn letter">2</button>
-					<button type="button" class="btn btn-dark big_btn letter">3</button>
-					<button type="button" class="btn btn-dark big_btn letter">4</button>
-					<button type="button" class="btn btn-dark big_btn letter">5</button>
-					<button type="button" class="btn btn-dark big_btn letter">6</button>
-					<button type="button" class="btn btn-dark big_btn letter">7</button>
-					<button type="button" class="btn btn-dark big_btn letter">8</button>
-					<button type="button" class="btn btn-dark big_btn letter">9</button>				
-				</div>		
-		</div>
-		
-		<div class="col-1">
-			
-		</div>
-		<div class="col-4 typed_text">
-			
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-4">
-			<p class="typed_text"></p>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-6">
-			<div class="btn-group-vertical btn-group-lg">
-				<button type="button" class="btn btn-secondary big_btn word">JE NE SAIS PAS</button>
-				<div class="row">&nbsp
-					</div>
-				<button type="button" class="btn btn-warning big_btn word"><i class="fa fa-cutlery" aria-hidden="true"></i> J'AI FAIM !</button>
-				<button type="button" class="btn btn-warning big_btn word"><img src="soda.svg" class="img-fluid" alt="Responsive image"> J'AI SOIF !</button>
-				<button type="button" class="btn btn-danger big_btn word"><img src="sun.svg" class="img-fluid" alt="Responsive image"> J'AI CHAUD !</button>
-				<button type="button" class="btn btn-primary big_btn word"><img src="snowflake.svg" class="img-fluid" alt="Responsive image"> J'AI FROID !</button>
-                                                     
-				<button type="button" class="btn btn-warning big_btn word"><img src="headache.svg" class="img-fluid" alt="Responsive image"> MAL A LA TETE</button>
-				<button type="button" class="btn btn-warning big_btn word"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> EN FORME</button>
-				<button type="button" class="btn btn-warning big_btn word"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i> FATIGUE</button>
-					<div class="row">&nbsp
-					</div>
-				<button type="button" class="btn btn-primary big_btn word"><i class="fa fa-female" aria-hidden="true"></i> CONSTANCE</button>
-				<button type="button" class="btn btn-primary big_btn word"><i class="fa fa-female" aria-hidden="true"></i> CLAIRE-LISE</button>
-				<button type="button" class="btn btn-primary big_btn word"><i class="fa fa-female" aria-hidden="true"></i> LISETTE</button>
-				<button type="button" class="btn btn-primary big_btn word"><i class="fa fa-male" aria-hidden="true"></i> OLIVIER</button>
-				<button type="button" class="btn btn-primary big_btn word"><i class="fa fa-male" aria-hidden="true"></i> FAHD</button>
-				<button type="button" class="btn btn-primary big_btn word"><i class="fa fa-female" aria-hidden="true"></i> SOFIE</button>
-					<div class="row">&nbsp
-					</div>
-				<button type="button" class="btn btn-info big_btn word"><img src="phone.svg" class="img-fluid" alt="Responsive image">IPHONE X</button>
-				
-			</div>
-		</div>
-	</div>
- </div>
- 
- <script>
-	$( "button.word" ).on( "click", function() {
-		$(".typed_text").append(" " + $( this ).text() + " ");
-	 
-	});
-	
-	$( "button.space" ).on( "click", function() {
-		$(".typed_text").append(" ");
-	 
-	});
-	
-	$( "button.delete" ).on( "click", function() {
-		$(".typed_text").text("");
-	 
-	});
-	
-	$( "button.letter" ).on( "click", function() {
-		$(".typed_text").append($( this ).text());
-		$( "button.letter" ).css("background-color", "#343a40");
-		$( this ).css("background-color", "#7fafe0");
 
-	 
-	});
- 
- </script>
- 
+<div style="height: 100px">
+</div>
+
+
+<main class="container main_container" role="main">
+    <div>
+        <div class="row">
+            <div class="col-2">
+                <div class="btn-group-vertical btn-group-lg">
+                    <button type="button" class="btn btn-warning big_btn delete">Eff.</button>
+                </div>
+
+                <div class="btn-group-vertical btn-group-lg">
+                    <button type="button" class="btn btn-success big_btn word">OUI</button>
+                </div>
+                <div class="btn-group-vertical btn-group-lg">
+                    <button type="button" class="btn btn-dark big_btn letter">A</button>
+                    <button type="button" class="btn btn-dark big_btn letter">B</button>
+                    <button type="button" class="btn btn-dark big_btn letter">C</button>
+                    <button type="button" class="btn btn-dark big_btn letter">D</button>
+                    <button type="button" class="btn btn-dark big_btn letter">E</button>
+                    <button type="button" class="btn btn-dark big_btn letter">F</button>
+                    <button type="button" class="btn btn-dark big_btn letter">G</button>
+                    <button type="button" class="btn btn-dark big_btn letter">H</button>
+                    <button type="button" class="btn btn-dark big_btn letter">I</button>
+                    <button type="button" class="btn btn-dark big_btn letter">J</button>
+                    <button type="button" class="btn btn-dark big_btn letter">K</button>
+                    <button type="button" class="btn btn-dark big_btn letter">L</button>
+                    <button type="button" class="btn btn-dark big_btn letter">M</button>
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="btn-group-vertical btn-group-lg">
+                    <button type="button" class="btn btn-dark big_btn space">Esp.</button>
+                </div>
+
+                <div class="btn-group-vertical btn-group-lg">
+                    <button type="button" class="btn btn-danger big_btn word">NON</button>
+                </div>
+                <div class="btn-group-vertical btn-group-lg">
+                    <button type="button" class="btn btn-dark big_btn letter">N</button>
+                    <button type="button" class="btn btn-dark big_btn letter">O</button>
+                    <button type="button" class="btn btn-dark big_btn letter">P</button>
+                    <button type="button" class="btn btn-dark big_btn letter">Q</button>
+                    <button type="button" class="btn btn-dark big_btn letter">R</button>
+                    <button type="button" class="btn btn-dark big_btn letter">S</button>
+                    <button type="button" class="btn btn-dark big_btn letter">T</button>
+                    <button type="button" class="btn btn-dark big_btn letter">U</button>
+                    <button type="button" class="btn btn-dark big_btn letter">V</button>
+                    <button type="button" class="btn btn-dark big_btn letter">W</button>
+                    <button type="button" class="btn btn-dark big_btn letter">X</button>
+                    <button type="button" class="btn btn-dark big_btn letter">Y</button>
+                    <button type="button" class="btn btn-dark big_btn letter">Z</button>
+
+                </div>
+
+
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-2">
+                <div class="btn-group-vertical btn-group-lg">
+                    <button type="button" class="btn btn-dark big_btn letter">0</button>
+                    <button type="button" class="btn btn-dark big_btn letter">1</button>
+                    <button type="button" class="btn btn-dark big_btn letter">2</button>
+                    <button type="button" class="btn btn-dark big_btn letter">3</button>
+                    <button type="button" class="btn btn-dark big_btn letter">4</button>
+                    <button type="button" class="btn btn-dark big_btn letter">5</button>
+                    <button type="button" class="btn btn-dark big_btn letter">6</button>
+                    <button type="button" class="btn btn-dark big_btn letter">7</button>
+                    <button type="button" class="btn btn-dark big_btn letter">8</button>
+                    <button type="button" class="btn btn-dark big_btn letter">9</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-6">
+                <div class="btn-group-vertical btn-group-lg">
+                    <button type="button" class="btn btn-secondary big_btn word">JE NE SAIS PAS</button>
+                    <div class="row">&nbsp
+                    </div>
+                    <button type="button" class="btn btn-warning big_btn word"><i class="fa fa-cutlery"
+                                                                                  aria-hidden="true"></i> J'AI FAIM !
+                    </button>
+                    <button type="button" class="btn btn-warning big_btn word"><img src="soda.svg" class="img-fluid"
+                                                                                    alt="Responsive image"> J'AI SOIF !
+                    </button>
+                    <button type="button" class="btn btn-danger big_btn word"><img src="sun.svg" class="img-fluid"
+                                                                                   alt="Responsive image"> J'AI CHAUD !
+                    </button>
+                    <button type="button" class="btn btn-primary big_btn word"><img src="snowflake.svg"
+                                                                                    class="img-fluid"
+                                                                                    alt="Responsive image"> J'AI FROID !
+                    </button>
+
+                    <button type="button" class="btn btn-warning big_btn word"><img src="headache.svg" class="img-fluid"
+                                                                                    alt="Responsive image"> MAL A LA
+                        TETE
+                    </button>
+                    <button type="button" class="btn btn-warning big_btn word"><i class="fa fa-thumbs-o-up"
+                                                                                  aria-hidden="true"></i> EN FORME
+                    </button>
+                    <button type="button" class="btn btn-warning big_btn word"><i class="fa fa-thumbs-o-down"
+                                                                                  aria-hidden="true"></i> FATIGUE
+                    </button>
+                    <div class="row">&nbsp
+                    </div>
+                    <button type="button" class="btn btn-primary big_btn word"><i class="fa fa-female"
+                                                                                  aria-hidden="true"></i> CONSTANCE
+                    </button>
+                    <button type="button" class="btn btn-primary big_btn word"><i class="fa fa-female"
+                                                                                  aria-hidden="true"></i> CLAIRE-LISE
+                    </button>
+                    <button type="button" class="btn btn-primary big_btn word"><i class="fa fa-female"
+                                                                                  aria-hidden="true"></i> LISETTE
+                    </button>
+                    <button type="button" class="btn btn-primary big_btn word"><i class="fa fa-male"
+                                                                                  aria-hidden="true"></i> OLIVIER
+                    </button>
+                    <button type="button" class="btn btn-primary big_btn word"><i class="fa fa-male"
+                                                                                  aria-hidden="true"></i> FAHD
+                    </button>
+                    <button type="button" class="btn btn-primary big_btn word"><i class="fa fa-female"
+                                                                                  aria-hidden="true"></i> SOFIE
+                    </button>
+                    <div class="row">&nbsp
+                    </div>
+                    <button type="button" class="btn btn-info big_btn word"><img src="phone.svg" class="img-fluid"
+                                                                                 alt="Responsive image">IPHONE X
+                    </button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<script>
+    $("button.word").on("click", function () {
+        $(".typed_text").append(" " + $(this).text() + " ");
+
+    });
+
+    $("button.space").on("click", function () {
+        $(".typed_text").append(" ");
+
+    });
+
+    $("button.delete").on("click", function () {
+        $(".typed_text").text("");
+
+    });
+
+    $("button.letter").on("click", function () {
+        $(".typed_text").append($(this).text());
+        $("button.letter").css("background-color", "#343a40");
+        $(this).css("background-color", "#7fafe0");
+
+
+    });
+
+</script>
+
 </body>
 </html>
