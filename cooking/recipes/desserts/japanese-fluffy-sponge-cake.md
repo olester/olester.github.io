@@ -4,7 +4,7 @@ description: "Le gâteau japonais ultra-moelleux et léger comme un nuage"
 prepTime: 30
 cookTime: 75
 servings: 8
-difficulty: "difficile"
+difficulty: "hard"
 tags:
   - dessert
   - japonais
