@@ -1,159 +1,159 @@
 ---
 title: "Japanese Fluffy Sponge Cake"
-description: "Le gâteau japonais ultra-moelleux et léger comme un nuage"
+description: "Ultra-soft and light Japanese sponge cake, fluffy as a cloud"
 prepTime: 30
 cookTime: 75
 servings: 8
 difficulty: "hard"
 tags:
   - dessert
-  - japonais
-  - gâteau
-  - moelleux
+  - japanese
+  - cake
+  - fluffy
   - technique
-cuisine: "Japonaise"
+cuisine: "Japanese"
 course: "dessert"
 ---
 
-## Ingrédients
+## Ingredients
 
-**Pour un moule carré 20x20 cm (ou rond 20 cm) :**
-- 6 œufs (blancs et jaunes séparés), à température ambiante
-- 60g de sucre (pour les jaunes)
-- 80g de sucre (pour les blancs)
-- 60g de beurre non salé
-- 100ml de lait entier
-- 90g de farine (T45 ou cake flour)
-- 20g de fécule de maïs
-- 1/4 c.à.c de sel
-- Quelques gouttes de jus de citron ou vinaigre blanc
-- 1 c.à.c d'extrait de vanille (optionnel)
+**For a 20x20 cm square pan (or 20 cm round pan):**
+- 6 eggs (whites and yolks separated), at room temperature
+- 60g sugar (for the yolks)
+- 80g sugar (for the whites)
+- 60g unsalted butter
+- 100ml whole milk
+- 90g flour (T45 or cake flour)
+- 20g cornstarch
+- 1/4 tsp salt
+- A few drops of lemon juice or white vinegar
+- 1 tsp vanilla extract (optional)
 
 ## Instructions
 
-### ÉTAPE 1 : Préparation (CRUCIAL !)
+### STEP 1: Preparation (CRUCIAL!)
 
-- **Sortir les œufs 1h avant** - température ambiante = meringue plus stable
-- Préchauffer le four à **150°C** (chaleur tournante) ou 160°C (statique)
-- Tapisser le moule de papier sulfurisé (fond + côtés hauts)
-- Préparer un grand plat pour le bain-marie avec 2-3 cm d'eau chaude
-- **Tamiser la farine + fécule ensemble 2 fois** - essentiel pour la légèreté !
+- **Remove eggs 1 hour before** - room temperature = more stable meringue
+- Preheat oven to **150°C** (convection) or 160°C (conventional)
+- Line the pan with parchment paper (bottom + high sides)
+- Prepare a large baking dish for the water bath with 2-3 cm of hot water
+- **Sift the flour + cornstarch together twice** - essential for lightness!
 
-### ÉTAPE 2 : Mélange lait + beurre
+### STEP 2: Milk + butter mixture
 
-1. Chauffer le lait + beurre ensemble jusqu'à ce que le beurre soit **complètement fondu**
-2. Garder **chaud** (60-70°C) - c'est important !
+1. Heat the milk + butter together until the butter is **completely melted**
+2. Keep **warm** (60-70°C) - this is important!
 
-### ÉTAPE 3 : Appareil aux jaunes
+### STEP 3: Egg yolk mixture
 
-1. Fouetter les jaunes + 60g sucre jusqu'à **blanc et mousseux** (3-4 min)
-2. Ajouter le mélange lait-beurre chaud **en filet** en fouettant constamment
-3. **TIP CHEF** : Le chaud aide à créer une émulsion stable !
-4. Ajouter vanille si utilisée
-5. Tamiser la farine + fécule AU-DESSUS du mélange
-6. Mélanger délicatement au fouet jusqu'à **lisse, sans grumeaux**
-7. **Réserver** - garder tiède en posant le bol sur de l'eau chaude
+1. Whisk the yolks + 60g sugar until **pale and foamy** (3-4 min)
+2. Add the warm milk-butter mixture **in a stream** while whisking constantly
+3. **CHEF'S TIP:** The heat helps create a stable emulsion!
+4. Add vanilla if using
+5. Sift the flour + cornstarch OVER the mixture
+6. Mix gently with a whisk until **smooth, no lumps**
+7. **Set aside** - keep warm by placing the bowl over hot water
 
-### ÉTAPE 4 : La meringue (LE PLUS IMPORTANT !)
+### STEP 4: The meringue (THE MOST IMPORTANT!)
 
-**SECRET DES CHEFS JAPONAIS :**
+**SECRET OF JAPANESE CHEFS:**
 
-1. **Bol et fouet IMPECCABLEMENT propres et secs** - aucune trace de gras !
-2. Ajouter sel + citron/vinaigre aux blancs
-3. Commencer à battre à **vitesse moyenne**
-4. Quand ça mousse, ajouter le sucre **en 3 fois** :
-   - 1/3 quand c'est mousseux
-   - 1/3 quand les bulles sont fines
-   - 1/3 quand ça commence à blanchir
-5. Augmenter à **vitesse élevée**
-6. Battre jusqu'à obtenir des **pics fermes et brillants**
+1. **Bowl and whisk IMPECCABLY clean and dry** - no trace of fat!
+2. Add salt + lemon/vinegar to the egg whites
+3. Start beating at **medium speed**
+4. When it foams, add the sugar **in 3 additions**:
+   - 1/3 when it's foamy
+   - 1/3 when the bubbles are fine
+   - 1/3 when it starts to turn white
+5. Increase to **high speed**
+6. Beat until you get **firm, glossy peaks**
 
-**TEST CRUCIAL :**
-- Retourner le bol → la meringue ne bouge PAS
-- Pics droits qui ne retombent pas
-- Texture lisse et brillante comme de la crème fouettée
-- **NE PAS TROP BATTRE** sinon elle devient granuleuse !
+**CRUCIAL TEST:**
+- Turn the bowl upside down → the meringue does NOT move
+- Straight peaks that don't fall back
+- Smooth and glossy texture like whipped cream
+- **DO NOT OVERBEAT** or it becomes grainy!
 
-### ÉTAPE 5 : Incorporation (TECHNIQUE JAPONAISE)
+### STEP 5: Folding (JAPANESE TECHNIQUE)
 
-**C'est ici que tout se joue !**
+**This is where everything is decided!**
 
-1. **Réchauffer légèrement** l'appareil aux jaunes s'il a refroidi (il doit être tiède)
-2. Prendre **1/3 de la meringue**
-3. L'ajouter à l'appareil aux jaunes
-4. **Mélanger vigoureusement** avec un fouet - oui, VIGOUREUSEMENT !
-   - Cela allège l'appareil et facilite l'incorporation suivante
-5. Verser CE MÉLANGE dans le bol de meringue restante
-6. **Technique de pliage japonaise** :
-   - Spatule en silicone souple
-   - Couper au centre verticalement
-   - Racler le fond du bol
-   - Remonter et retourner
-   - Tourner le bol de 90° à chaque mouvement
-   - **30-40 mouvements maximum**
-   - Quelques traces blanches = OK ! Ne pas trop mélanger
+1. **Gently rewarm** the egg yolk mixture if it has cooled (it should be lukewarm)
+2. Take **1/3 of the meringue**
+3. Add it to the egg yolk mixture
+4. **Mix vigorously** with a whisk - yes, VIGOROUSLY!
+   - This lightens the mixture and facilitates the next incorporation
+5. Pour THIS MIXTURE into the bowl with the remaining meringue
+6. **Japanese folding technique**:
+   - Flexible silicone spatula
+   - Cut vertically through the center
+   - Scrape the bottom of the bowl
+   - Lift up and fold over
+   - Rotate the bowl 90° with each movement
+   - **30-40 movements maximum**
+   - A few white streaks = OK! Don't overmix
 
-**TIP CHEF :** Alterner entre mouvements de pliage et mouvements circulaires du bol pour homogénéiser sans casser les bulles.
+**CHEF'S TIP:** Alternate between folding movements and circular bowl rotations to homogenize without breaking the bubbles.
 
-### ÉTAPE 6 : Cuisson au bain-marie
+### STEP 6: Water bath baking
 
-1. Verser la pâte dans le moule **d'une hauteur de 30 cm** - cela éclate les grosses bulles !
-2. Tapoter le moule **fermement** sur le comptoir 3-4 fois
-3. Passer une baguette/cure-dent en zigzag pour éliminer les bulles
-4. Placer le moule dans le plat de bain-marie (l'eau doit arriver à mi-hauteur du moule)
-5. **Cuisson : 70-75 minutes à 150°C**
-   - **NE PAS ouvrir le four pendant les 60 premières minutes !**
-   - À 60 min : vérifier, le dessus doit être doré
-   - Test du cure-dent : il doit ressortir propre
+1. Pour the batter into the pan **from a height of 30 cm** - this bursts large bubbles!
+2. Tap the pan **firmly** on the counter 3-4 times
+3. Run a skewer/toothpick in a zigzag pattern to eliminate bubbles
+4. Place the pan in the water bath dish (water should reach halfway up the pan)
+5. **Baking: 70-75 minutes at 150°C**
+   - **DO NOT open the oven for the first 60 minutes!**
+   - At 60 min: check, the top should be golden
+   - Toothpick test: it should come out clean
 
-**SIGNES DE CUISSON PARFAITE :**
-- Dessus doré uniformément
-- Le gâteau a gonflé puis s'est légèrement rétracté
-- Ça sent bon !
-- Léger rebond quand on appuie doucement
+**SIGNS OF PERFECT BAKING:**
+- Evenly golden top
+- The cake has risen then slightly retracted
+- It smells good!
+- Slight bounce when gently pressed
 
-### ÉTAPE 7 : Refroidissement (CRITIQUE !)
+### STEP 7: Cooling (CRITICAL!)
 
-1. **Sortir immédiatement du four**
-2. **Laisser tomber le moule de 15-20 cm de hauteur** sur le comptoir - cela empêche l'affaissement !
-3. **Démouler IMMÉDIATEMENT** sur une grille
-4. **Retourner le gâteau** (dessus vers le bas) pendant 5 minutes
-5. Retourner à nouveau (dessus vers le haut)
-6. Couvrir d'un torchon légèrement humide
-7. Laisser refroidir **complètement** (2h minimum)
+1. **Remove immediately from the oven**
+2. **Drop the pan from 15-20 cm height** onto the counter - this prevents collapse!
+3. **Unmold IMMEDIATELY** onto a cooling rack
+4. **Flip the cake** (top side down) for 5 minutes
+5. Flip again (top side up)
+6. Cover with a slightly damp kitchen towel
+7. Let cool **completely** (minimum 2h)
 
 ## Notes
 
-### Pour la texture ultra-fluffy :
+### For ultra-fluffy texture:
 
-1. **Ratio œufs élevé** - c'est la base
-2. **Meringue ferme mais pas trop** - brillante et lisse
-3. **Appareil aux jaunes tiède** lors de l'incorporation
-4. **Ne pas trop mélanger** - 30-40 mouvements max
-5. **Cuisson douce et longue** au bain-marie
+1. **High egg ratio** - this is the foundation
+2. **Firm but not too firm meringue** - glossy and smooth
+3. **Lukewarm egg yolk mixture** during folding
+4. **Don't overmix** - 30-40 movements max
+5. **Gentle, long baking** in a water bath
 
-### Erreurs à éviter :
+### Mistakes to avoid:
 
-- Meringue pas assez ferme → gâteau plat
-- Trop mélanger → perte de volume
-- Four trop chaud → croûte dure, intérieur pas cuit
-- Ouvrir le four trop tôt → affaissement
-- Ne pas taper le moule → gâteau s'affaisse en refroidissant
+- Meringue not firm enough → flat cake
+- Overmixing → loss of volume
+- Oven too hot → hard crust, undercooked inside
+- Opening the oven too early → collapse
+- Not tapping the pan → cake collapses while cooling
 
-### Le test du "giggle" :
+### The "jiggle" test:
 
-Une fois refroidi, secouez doucement le gâteau - il doit **trembler comme une gelée** !
+Once cooled, gently shake the cake - it should **wobble like jelly**!
 
-### Conservation :
+### Storage:
 
-- Envelopper dans du film alimentaire
-- 3 jours au frigo (il devient encore plus moelleux !)
-- Servir à température ambiante ou légèrement frais
+- Wrap in plastic wrap
+- 3 days in the fridge (it becomes even softer!)
+- Serve at room temperature or slightly chilled
 
-### Variantes :
+### Variations:
 
-- **Matcha** : Remplacer 10g de farine par 10g de matcha
-- **Cacao** : Remplacer 15g de farine par 15g de cacao
-- **Pandan** : Ajouter de l'extrait de pandan au lait
+- **Matcha:** Replace 10g of flour with 10g matcha
+- **Cocoa:** Replace 15g of flour with 15g cocoa
+- **Pandan:** Add pandan extract to the milk
 
-**Le secret ultime :** La patience et la délicatesse ! Ce gâteau récompense la technique précise.
+**The ultimate secret:** Patience and delicacy! This cake rewards precise technique.
